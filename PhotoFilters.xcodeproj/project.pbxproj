@@ -13,8 +13,6 @@
 		832B2B991A187BB300B79F3E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 832B2B981A187BB300B79F3E /* Images.xcassets */; };
 		832B2B9C1A187BB300B79F3E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 832B2B9A1A187BB300B79F3E /* LaunchScreen.xib */; };
 		832B2BA81A187BB300B79F3E /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 832B2BA71A187BB300B79F3E /* PhotoFiltersTests.swift */; };
-		832B2BB21A187BF500B79F3E /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 832B2BB11A187BF500B79F3E /* .gitignore */; };
-		832B2BB41A187C0400B79F3E /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 832B2BB31A187C0400B79F3E /* README.md */; };
 		832B2BB81A188A0100B79F3E /* boxes.png in Resources */ = {isa = PBXBuildFile; fileRef = 832B2BB71A188A0100B79F3E /* boxes.png */; };
 /* End PBXBuildFile section */
 
@@ -201,7 +199,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				832B2BB21A187BF500B79F3E /* .gitignore in Resources */,
 				832B2B971A187BB300B79F3E /* Main.storyboard in Resources */,
 				832B2B9C1A187BB300B79F3E /* LaunchScreen.xib in Resources */,
 				832B2BB81A188A0100B79F3E /* boxes.png in Resources */,
@@ -223,7 +220,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				832B2BB41A187C0400B79F3E /* README.md in Sources */,
 				832B2B941A187BB300B79F3E /* ViewController.swift in Sources */,
 				832B2B921A187BB300B79F3E /* AppDelegate.swift in Sources */,
 			);
