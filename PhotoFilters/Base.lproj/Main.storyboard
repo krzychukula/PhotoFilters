@@ -30,10 +30,17 @@
                     </view>
                     <toolbarItems>
                         <barButtonItem style="plain" systemItem="flexibleSpace" id="58J-5l-dBt"/>
-                        <barButtonItem title="Apply Filter" id="xZC-uy-1QE"/>
+                        <barButtonItem title="Apply Filter" id="xZC-uy-1QE">
+                            <connections>
+                                <action selector="applyFilter:" destination="BYZ-38-t0r" id="dUU-RM-rxF"/>
+                            </connections>
+                        </barButtonItem>
                         <barButtonItem style="plain" systemItem="flexibleSpace" id="kn7-CK-NvU"/>
                     </toolbarItems>
                     <navigationItem key="navigationItem" title="Filter" id="bxn-Lg-aRP"/>
+                    <connections>
+                        <outlet property="photoImageView" destination="jQK-U6-1uF" id="mR6-Lw-N2J"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
