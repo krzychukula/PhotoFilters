@@ -15,6 +15,7 @@
 		832B2BA81A187BB300B79F3E /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 832B2BA71A187BB300B79F3E /* PhotoFiltersTests.swift */; };
 		832B2BB21A187BF500B79F3E /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 832B2BB11A187BF500B79F3E /* .gitignore */; };
 		832B2BB41A187C0400B79F3E /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 832B2BB31A187C0400B79F3E /* README.md */; };
+		832B2BB61A187DE800B79F3E /* boxes.png in Resources */ = {isa = PBXBuildFile; fileRef = 832B2BB51A187DE800B79F3E /* boxes.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		832B2BA71A187BB300B79F3E /* PhotoFiltersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersTests.swift; sourceTree = "<group>"; };
 		832B2BB11A187BF500B79F3E /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		832B2BB31A187C0400B79F3E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		832B2BB51A187DE800B79F3E /* boxes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = boxes.png; path = ../../../Documents/boxes.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		832B2B8E1A187BB300B79F3E /* PhotoFilters */ = {
 			isa = PBXGroup;
 			children = (
+				832B2BB51A187DE800B79F3E /* boxes.png */,
 				832B2B911A187BB300B79F3E /* AppDelegate.swift */,
 				832B2B931A187BB300B79F3E /* ViewController.swift */,
 				832B2B951A187BB300B79F3E /* Main.storyboard */,
@@ -201,6 +204,7 @@
 				832B2BB21A187BF500B79F3E /* .gitignore in Resources */,
 				832B2B971A187BB300B79F3E /* Main.storyboard in Resources */,
 				832B2B9C1A187BB300B79F3E /* LaunchScreen.xib in Resources */,
+				832B2BB61A187DE800B79F3E /* boxes.png in Resources */,
 				832B2B991A187BB300B79F3E /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
